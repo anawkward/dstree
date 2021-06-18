@@ -6,7 +6,7 @@ a nested python objects including list, tuple, dictionary, tensor, ndarray to da
 ```
 data = a list of 10 lists of 3 dicts of 2 keys : list of 2 strings
 
-dv.viz(data)
+dstree.viz(data)
 
 $ list of 10
 $ └── list of 3
